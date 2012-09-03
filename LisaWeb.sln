@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisaWeb", "LisaWeb\LisaWeb.csproj", "{70C8539D-D7C6-4572-9894-3FF689B9C960}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisaWeb", "src\LisaWeb\LisaWeb.csproj", "{70C8539D-D7C6-4572-9894-3FF689B9C960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
