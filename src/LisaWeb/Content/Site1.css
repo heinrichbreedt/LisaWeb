@@ -1,0 +1,186 @@
+﻿@font-face {
+    font-family: ChampagneLimousines;
+    src: url('ChampagneLimousines.ttf');
+}
+
+@font-face {
+    font-family: ChampagneLimousines;
+    src: url('ChampagneLimousinesBold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Philosopher;
+    src: url('Philosopher.otf');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #dcdcdc;
+    text-decoration: none;
+    font-style: italic;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #220d22;
+}
+
+h1 {
+    font-family: ChampagneLimousines;
+    font-size: 130%;
+}
+
+hr {
+    height: 1px;
+    color: #4f5963;
+    opacity: 0.2;
+}
+
+body { background-image: url(backgroundd.jpg); }
+
+#logo img {
+    margin-left: -740px;
+    margin-top: -150px;
+    width: 100px;
+    height: auto;
+}
+
+#buying {
+    font-size: 260%;
+    color: #111;
+    margin-left: -510px;
+}
+
+#tech {
+    font-size: 260%;
+    color: #111;
+    margin-left: -380px;
+}
+
+#body {
+    background-color: #a4aec0;
+    width: 800px;
+    padding: 27px;
+    position: relative;
+    color: #fff;
+    text-shadow: none;
+    font-family: cambria;
+    bottom: 20px;
+    margin-top: 110px;
+    -webkit-border-radius: 30px 1px 1px 1px;
+    -moz-border-radius: 30px 1px 1px 1px;
+    border-radius: 30px 1px 1px 1px;
+}
+
+#body a { color: #aaaacf; }
+
+#body a:hover {
+    color: #ccccef;
+    text-decoration: underline;
+}
+
+#body b {
+    font-weight: bold;
+    font-size: 17px;
+}
+#gradient {
+padding:0;
+z-index:1;
+margin-top:-27px;
+position:relative;
+margin-left:-300px;
+background-color:#2e2e2e;
+-webkit-box-shadow: 90px 20px 50px 0px #0a0a14;
+box-shadow: 90px 20px 50px 0px #0a0a14;
+-moz-box-shadow: 90px 20px 50px 0px #0a0a14;
+height:27px;
+}
+
+#title {
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+border-radius:3px;
+width:840px;
+text-align:center;
+font-family:Philosopher;
+font-weight:bold;
+z-index:3;
+text-shadow: 1px 1px 1px #c9c9d1;
+        filter: dropshadow(color=#c9c9d1, offx=1, offy=1);
+}
+
+#links {margin-left:480px;
+width:500px;
+text-align:center;
+font-size:17px;
+margin-top:-105px;
+}
+#links a {color:#444;
+}
+
+#link1 {height:20px;
+border-bottom:solid medium #00ff00;
+font-family:cambria;
+width:95px;
+padding:2px;
+}
+#link1:hover {border-bottom:solid medium #11cc11;
+letter-spacing:1px;
+}
+#link2 {height:20px;
+border-bottom:solid medium #b259ee;
+font-family:cambria;
+width:95px;
+padding:2px;
+margin-top:-27.5px;
+margin-left:105px;
+}
+#link2:hover {border-bottom:solid medium #9b3fbf;
+letter-spacing:1px;
+}
+#link4 {height:20px;
+border-bottom:solid medium #ff00ff;
+font-family:cambria;
+width:95px;
+padding:2px;
+margin-top:-27px;
+margin-left:315px;
+}
+#link4:hover {border-bottom:solid medium #cc11cc;
+letter-spacing:1px;
+}
+#link3 {height:20px;
+border-bottom:solid medium #5555f9;
+font-family:cambria;
+width:95px;
+padding:2px;
+margin-top:-27px;
+margin-left:210px;
+}
+#link3:hover {border-bottom:solid medium #4444d5;
+letter-spacing:1px;
+}
+
+
+
+#credits {
+background-color:#5f6973;
+margin-left:-27px;
+margin-right:-27px;
+margin-bottom:-30px;
+margin-top:20px;
+padding:20px;
+font-size:12px;
+font-weight:normal;
+text-align:left;
+font-family:calibri;
+border-top:solid 1px #2f3943;
+border-bottom:solid 2px #2f3943;
+text-shadow:none;
+}

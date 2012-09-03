@@ -1,0 +1,10 @@
+/_ReSharper.*
+*.suo
+/src/*/bin
+/src/*/obj
+/src/*/*.user
+/packages/RavenDB.1.0.888/server/Data
+/packages/RavenDB.1.0.888/server/Logs
+/packages
+/LDMSFeed
+createfeed.lnk
