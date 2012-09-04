@@ -69,7 +69,7 @@
     <Content Include="Content\normalize.css" />
     <Content Include="Content\Site1.css" />
     <Content Include="Home.html" />
-    <Content Include="img\backgroundd.jpg" />
+    <Content Include="img\background.jpg" />
     <Content Include="img\clipboard.jpg" />
     <Content Include="img\glyphicons-halflings-white.png" />
     <Content Include="img\glyphicons-halflings.png" />
